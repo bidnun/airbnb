@@ -1,0 +1,41 @@
+h1 {
+    color: #000000;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+.sousTitre {
+    color:blue;
+    text-align: left;
+    padding-left: 100px;
+    font-size: 50px;
+}
+
+ul {
+    padding-left: 50px;
+}
+
+p {
+    color: #000000;
+    font-size: 20px;
+}
+
+.autreListe {
+    font-size: 20px;
+}
+
+img {
+    max-width: 400px;
+}
+
+#carouselExampleAutoplaying {
+    max-width: 400px;
+}
+
+.carousel-control-prev-icon {
+    color: tomato;
+}
+
+.carousel-control-next-icon {
+    color: tomato;
+}
